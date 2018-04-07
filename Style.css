@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+}
+header button, footer button{
+    padding: 15px;
+    color: #FFFFFF;
+    background-color: #9A9FB6;
+
+}
+header{
+    background-color: #DADCDB;
+    text-align: right;
+    padding: 20px;
+}
+footer{
+    background-color: #DADCDB;
+    text-align: left;
+    padding: 20px;
+}
+
+.content{
+    margin: 20px;
+    padding: 15px;
+    border: double;
+    text-align: justify;
+}
+.text1{
+    background-color: #FAFAFA;
+}
+.text2{
+    background-color: #FAFAFA;
+}
+.content button{
+    padding: 5px;
+    background-color: #942514;
+    color: #FFFFFF;
+    border-width: 1px;
+    border-style: solid;
+}
+.content > button{
+    background-color: #FFFFFF;
+    color: #0000ff;
+}
