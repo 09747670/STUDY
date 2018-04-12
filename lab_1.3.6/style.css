@@ -1,0 +1,32 @@
+
+.bloc1{
+    background-color: #00ced1;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+}
+.blok2{
+    width: 400px;
+    background-color: #ffe4c4;
+    display: inline-block;
+    margin-top: 40px;
+    padding: 20px;
+}
+.buttonTop{
+    font-family: sans-serif;
+    color: #ffffff;
+    background-color: #9400d3;
+    padding: 15px;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.button{
+    font-family: sans-serif;
+    width: 45%;
+    padding: 10px;
+    margin-right: 5%;
+    box-sizing: border-box;
+    float: left;
+    background-color: #deb887;
+    border: solid 1px brown;
+}
