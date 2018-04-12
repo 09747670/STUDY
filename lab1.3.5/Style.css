@@ -1,0 +1,20 @@
+body{
+    background-image: url("world-map.png");
+    background-position: left top;
+    background-size: cover;
+}
+header{
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 4px;
+
+}
+.Subheader{
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-weight: normal;
+    letter-spacing: 2px;
+
+}
