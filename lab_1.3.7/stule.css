@@ -1,0 +1,33 @@
+
+.container1{
+    overflow: hidden;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+.container { display: inline-block;
+
+    width: 80%; margin: 60px auto;
+  }
+
+.element {
+    float: left;
+    width: 21%;
+    height: 220px;
+    background-color: #eeeeee;
+    text-align: left;
+    padding: 20px;
+
+}
+.element1 {
+    float: left;
+    width: 21%;
+    height: 220px;
+    background-color: #cccccc;
+    text-align: left;
+    padding: 20px;
+    text-overflow: clip;
+
+}
